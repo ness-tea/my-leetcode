@@ -1,2 +1,2 @@
 # Factorial-
-Calculates factorial for any number
+A short exercise - calculates the factorial of a number.
