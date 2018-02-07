@@ -1,2 +1,2 @@
-# Rotate-Array
-A small exercise - Rotate the elements of an array
+# rotate-array
+Rotates the elements of an array by a specified value, n
